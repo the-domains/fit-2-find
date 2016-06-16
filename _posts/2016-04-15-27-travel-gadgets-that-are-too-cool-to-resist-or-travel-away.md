@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T21:59:36.020Z'
+datePublished: '2016-06-16T22:00:13.512Z'
 sourcePath: >-
   _posts/2016-04-15-27-travel-gadgets-that-are-too-cool-to-resist-or-travel-away.md
 inFeed: true
@@ -28,7 +28,7 @@ author:
   - name: Greg
     url: 'http://www.thetinmill.com'
     avatar: {}
-dateModified: '2016-06-16T21:59:35.428Z'
+dateModified: '2016-06-16T22:00:12.689Z'
 title: 27 Travel Gadgets That Are Too Cool To Resist | Travel Away
 app_links: []
 publisher:
