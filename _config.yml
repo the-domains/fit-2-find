@@ -1,0 +1,14 @@
+layout_spectrum: 0.723787501687184
+typography_spectrum: 0.03537176223471761
+color:
+  brandStrength: 0.9179413255769759
+  lightness: 0.43605296639725566
+  saturation: 0.24152444396167994
+  rhythmicContrast: 0.6554972848389298
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: fit 2 find
