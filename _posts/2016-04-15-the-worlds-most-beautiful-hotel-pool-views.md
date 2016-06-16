@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T21:59:36.021Z'
+datePublished: '2016-06-16T22:00:13.515Z'
 sourcePath: _posts/2016-04-15-the-worlds-most-beautiful-hotel-pool-views.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,7 @@ author:
   - name: '@mmeltrez'
     url: 'https://www.twitter.com/@mmeltrez'
     avatar: {}
-dateModified: '2016-06-16T21:59:35.465Z'
+dateModified: '2016-06-16T22:00:12.141Z'
 title: The World's Most Beautiful Hotel Pool Views
 app_links:
   - namespace: twitter
